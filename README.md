@@ -20,7 +20,7 @@
   3. 2023년 디지텍 캡스톤 대회 (디지텍상)
  
 [인스타그램] (https://www.instagram.com/yang_j.w/)
-[프로필이미지] (./mococo.jpeg)
+[프로필이미지] (./mococo.png)
 
 
 <!--
