@@ -18,6 +18,9 @@
   1. 2019년 달성고등학교 프로그래밍 경시 대회 (은상)
   2. 2023년 영남이공대학교 캡스톤 디자인 경진 대회 (금상)
   3. 2023년 디지텍 캡스톤 대회 (디지텍상)
+ 
+[인스타그램] (https://www.instagram.com/yang_j.w/)
+[mococo.jpeg]
 <!--
 **yanglilla/yanglilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
