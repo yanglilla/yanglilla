@@ -21,6 +21,7 @@
  
 [인스타그램] (https://www.instagram.com/yang_j.w/)
 [프로필이미지] (https://github.com/yanglilla/yanglilla/assets/144306530/8179d81f-c21a-40c6-b008-417a371489e0)
+![mococo](https://github.com/yanglilla/yanglilla/assets/144306530/b9dc8e5b-b951-4305-b0ab-51bac5753eab)
 
 
 
