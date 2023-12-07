@@ -20,7 +20,7 @@
   3. 2023년 디지텍 캡스톤 대회 (디지텍상)
  
 [인스타그램] (https://www.instagram.com/yang_j.w/)
-[mococo.jpeg]
+[프로필이미지] (./mococo.jpeg)
 <!--
 **yanglilla/yanglilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
